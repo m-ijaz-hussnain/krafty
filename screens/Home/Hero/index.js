@@ -4,8 +4,8 @@ import React from "react";
 import styles from "./hero.module.css";
 import cn from "classnames";
 import { motion } from "framer-motion";
-import { Product } from "@/components/Cards";
-import { products } from "@/mocks/products";
+import { Project } from "@/components/Cards"; // Product ki jagah Project import kiya
+import { projects } from "@/mocks/projects"; // Products data ki jagah Projects mock data import kiya
 import Link from "next/link";
 import CircularAnimation from "@/components/CircularAnimation";
 
@@ -84,18 +84,20 @@ export default function Hero() {
           </div>
         </div>
 
+        {/* Yahan humne products container ko projects container se replace kar diya */}
         <div className={styles.products_container}>
           <div className={styles.products}>
-            {products.slice(0, 4).map((product, index) => (
-              <Product
-                key={product.title}
-                product={product}
+            {projects.slice(0, 4).map((project, index) => (
+              <Project
+                key={project.title}
+                project={project}
                 isNew={index === 0}
               />
             ))}
           </div>
 
-          <Link href="/store">
+          {/* See all button ab /projects page par redirect karega */}
+          <Link href="/projects">
             <button className={cn("button-stroke", styles.secondary_button)}>
               See all
             </button>

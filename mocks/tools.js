@@ -34,30 +34,30 @@ const tools = [
     text: "Icons",
     url: "https://iconly.pro/",
   },
-  {
-    icon: <VSCode />,
-    title: "VS Code",
-    text: "Code Editor",
-    url: "https://code.visualstudio.com/",
-  },
-  {
-    icon: <ReactNative />,
-    title: "React Native",
-    text: "Apps",
-    url: "https://reactnative.dev/",
-  },
-  {
-    icon: <Nextjs />,
-    title: "Next.js",
-    text: "Websites",
-    url: "https://nextjs.org/",
-  },
-  {
-    icon: <Code />,
-    title: "Xcode",
-    text: "iOS Apps",
-    url: "https://developer.apple.com/xcode/",
-  },
+  // {
+  //   icon: <VSCode />,
+  //   title: "VS Code",
+  //   text: "Code Editor",
+  //   url: "https://code.visualstudio.com/",
+  // },
+  // {
+  //   icon: <ReactNative />,
+  //   title: "React Native",
+  //   text: "Apps",
+  //   url: "https://reactnative.dev/",
+  // },
+  // {
+  //   icon: <Nextjs />,
+  //   title: "Next.js",
+  //   text: "Websites",
+  //   url: "https://nextjs.org/",
+  // },
+  // {
+  //   icon: <Code />,
+  //   title: "Xcode",
+  //   text: "iOS Apps",
+  //   url: "https://developer.apple.com/xcode/",
+  // },
 ];
 
 export { tools };

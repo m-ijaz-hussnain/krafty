@@ -64,7 +64,7 @@ export default function Sidebar({ links, socials }) {
         animate="show"
         className={styles.links}
       >
-        {links.map((item, index) => (
+        {links.filter(item => item.title.toLowerCase() !== "store").map((item, index) => (
           <Link href={item.url} key={index}>
             <motion.button
               variants={itemVariant}
