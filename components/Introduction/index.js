@@ -15,7 +15,7 @@ export default function Introduction() {
 
         <div>
           <div className={styles.image_container}>
-            <img src="/intro-2.jpg" className={styles.image} />
+            <img src="/intro.jpeg" className={styles.image} />
           </div>
 
           <p className={cn("body-2", styles.subtitle)}>
