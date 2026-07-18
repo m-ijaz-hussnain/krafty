@@ -64,28 +64,30 @@ export default function Sidebar({ links, socials }) {
         animate="show"
         className={styles.links}
       >
-        {links.filter(item => item.title.toLowerCase() !== "store").map((item, index) => (
-          <Link href={item.url} key={index}>
-            <motion.button
-              variants={itemVariant}
-              key={index}
-              className={cn("btn-2", styles.button, {
-                [styles.active]: pathname === item.url,
-              })}
-            >
-              {item.icon}
-              <motion.span
-                animate={{ opacity: visible ? 0 : 1 }}
-                transition={{
-                  duration: 0.5,
-                  ease: [0.25, 0.1, 0.25, 1],
-                }}
+        {/* Yahan humne filter ko trim() ke saath improve kiya hai */}
+        {links
+          .filter((item) => item.title.toLowerCase().trim() !== "store")
+          .map((item, index) => (
+            <Link href={item.url} key={index}>
+              <motion.button
+                variants={itemVariant}
+                className={cn("btn-2", styles.button, {
+                  [styles.active]: pathname === item.url,
+                })}
               >
-                {item.title}
-              </motion.span>
-            </motion.button>
-          </Link>
-        ))}
+                {item.icon}
+                <motion.span
+                  animate={{ opacity: visible ? 0 : 1 }}
+                  transition={{
+                    duration: 0.5,
+                    ease: [0.25, 0.1, 0.25, 1],
+                  }}
+                >
+                  {item.title}
+                </motion.span>
+              </motion.button>
+            </Link>
+          ))}
       </motion.div>
 
       <motion.div
