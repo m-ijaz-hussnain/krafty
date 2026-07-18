@@ -11,11 +11,11 @@ const links = [
     url: "/projects",
     icon: <Bag />,
   },
-  {
-    title: "Store",
-    url: "/store",
-    icon: <Store />,
-  },
+  // {
+  //   title: "Store",
+  //   url: "/store",
+  //   icon: <Store />,
+  // },
   {
     title: "About",
     url: "/about",
