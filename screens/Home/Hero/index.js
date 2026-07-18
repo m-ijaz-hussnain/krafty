@@ -24,9 +24,9 @@ export default function Hero() {
             </div>
             <div>
               <p className={cn("body-2-semibold", styles.caption)}>
-                Angel Uriostegui
+                Dazal
               </p>
-              <p className={cn("caption", styles.profession)}>Programming</p>
+              <p className={cn("caption", styles.profession)}>STUDIO</p>
             </div>
           </div>
 
