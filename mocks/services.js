@@ -1,22 +1,22 @@
 const services = [
   {
-    title: "App Development",
-    cost: "Starts at $2999",
-    image: "/images/services/service-1.png",
-  },
-  {
-    title: "Web Development",
-    cost: "Starts at $1999",
-    image: "/images/services/service-2.png",
-  },
-  {
     title: "UI/UX Design",
     cost: "Starts at $999",
     image: "/images/services/service-1.png",
   },
   {
-    title: "SEO Optimization",
-    cost: "Starts at $599",
+    title: "Website & Landing Page Design",
+    cost: "Starts at $1,499",
+    image: "/images/services/service-2.png",
+  },
+  {
+    title: "Web & Mobile App Design",
+    cost: "Starts at $1,999",
+    image: "/images/services/service-1.png",
+  },
+  {
+    title: "SaaS Product Design",
+    cost: "Starts at $2,499",
     image: "/images/services/service-2.png",
   },
 ];
