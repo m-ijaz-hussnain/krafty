@@ -10,10 +10,9 @@ export default function Process() {
       <div className={styles.container}>
         <div className={styles.title_container}>
           <span className={cn("hairline-2", styles.text)}>Process</span>
-          <h1 className={cn("h2", styles.title)}>Development process.</h1>
+          <h1 className={cn("h2", styles.title)}>A process built for hand-offs.</h1>
           <p className={cn("body-2", styles.subtitle)}>
-            A brief insight into how I craft custom digital solutions,
-            emphasizing efficient collaboration and technological excellence.
+            Simple, transparent, and easy to slot into your existing workflow so nothing falls through the cracks between us and your client.
           </p>
         </div>
 

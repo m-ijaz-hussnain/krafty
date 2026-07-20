@@ -2,27 +2,27 @@ import { Branch } from "@/components/Icons";
 
 const steps = [
   {
-    title: "Empathize",
+    title: "Discover",
     description:
-      "Understanding your vision and challenges through in-depth research and communication.",
+      "We start with your brief, brand assets, and client goals — no lengthy onboarding, just a quick scoping call to align on scope and timeline.",
     image: "/images/steps/step-1.jpg",
   },
   {
-    title: "Ideate",
+    title: "Wireframe",
     description:
-      "Developing innovative and tailored strategies to address your project's unique needs.",
+      "We map user flows and low-fidelity wireframes first, so structure and logic are locked in before a single pixel is styled.",
     icon: <Branch />,
   },
   {
     title: "Design",
     description:
-      "Crafting user-centric and efficient design solutions for your project.",
+      "High-fidelity, on-brand UI design across every screen — with async check-ins so you can share progress with your client anytime.",
     image: "/images/steps/step-3.jpg",
   },
   {
-    title: "Iterate",
+    title: "Deliver & Iterate",
     description:
-      "Continuously refining and improving the project through feedback and testing.",
+      "You receive organized, dev-ready files (Figma, specs, assets) plus a revision round — fast turnaround, no scope creep.",
     image: "/images/steps/step-4.jpg",
   },
 ];
