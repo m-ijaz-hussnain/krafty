@@ -65,7 +65,7 @@ export default function Footer({ title }) {
 
       <div className={styles.bottom}>
         <div className={cn("caption", styles.copyright)}>
-          Angel Uriostegui © 2023
+          Dazal Studio © 2026
         </div>
 
         <div className={styles.socials}>

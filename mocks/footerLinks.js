@@ -10,10 +10,10 @@ const footerLinks = [
         title: "Projects",
         href: "/projects",
       },
-      {
-        title: "Store",
-        href: "/store",
-      },
+      // {
+      //   title: "Store",
+      //   href: "/store",
+      // },
       {
         title: "About",
         href: "/about",
