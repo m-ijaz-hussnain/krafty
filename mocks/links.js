@@ -21,11 +21,11 @@ const links = [
     url: "/about",
     icon: <Profile />,
   },
-  {
-    title: "Writings",
-    url: "/writings",
-    icon: <Writing />,
-  },
+  // {
+  //   title: "Writings",
+  //   url: "/writings",
+  //   icon: <Writing />,
+  // },
   {
     title: "Contact",
     url: "/contact",
