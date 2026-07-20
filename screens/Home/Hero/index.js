@@ -26,7 +26,7 @@ export default function Hero() {
               <p className={cn("body-2-semibold", styles.caption)}>
                 Dazal
               </p>
-              <p className={cn("caption", styles.profession)}>STUDIO</p>
+              <p className={cn("caption", styles.profession)}>Design Studio</p>
             </div>
           </div>
 
@@ -34,7 +34,7 @@ export default function Hero() {
             style={{ position: "relative", width: "100%", overflow: "hidden" }}
           >
             <h1 className={cn("hero", styles.title, styles.typing_effect)}>
-              I design + code apps & websites.
+              Design that grows your product and your client's.
             </h1>
 
             <motion.div
@@ -62,7 +62,7 @@ export default function Hero() {
           <div className={styles.bottom_content}>
             <div>
               <p className={cn("body-1")}>
-                Bringing beauty to the web, one line of code at a time.
+                We design UI/UX, websites, and SaaS products for business owners building their brand and work white-label behind the scenes for agencies who need an extra design bench.
               </p>
 
               <motion.a
