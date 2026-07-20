@@ -7,8 +7,8 @@ export default function Introduction() {
     <div className={cn("section section-gray")}>
       <div className={styles.container}>
         <div className={styles.title_container}>
-          <span className={cn("hairline-2", styles.text)}>Introduction</span>
-          <h1 className={cn("h2", styles.title)}>About me.</h1>
+          <span className={cn("hairline-2", styles.text)}>About</span>
+          <h1 className={cn("h2", styles.title)}>About Us.</h1>
         </div>
 
         <div className={styles.breakline} />
@@ -19,9 +19,7 @@ export default function Introduction() {
           </div>
 
           <p className={cn("body-2", styles.subtitle)}>
-            I specialize in crafting user-friendly websites and apps, blending
-            aesthetics with functionality to create seamless digital
-            experiences.
+            We work two ways: directly with founders and business owners who need a website, app, or product designed from the ground up  and white-label alongside agencies who need senior-level UI/UX without the cost of hiring in-house. Either way, you get the same thing: clean, considered design, delivered on time, with no back-and-forth chasing revisions.
           </p>
         </div>
       </div>
