@@ -18,7 +18,7 @@ const testimonials = [
     position: "Agency Owner",
     review:
       "Dazal Studio turned confused applicants into qualified leads drop-off down 38%.",
-    image: "/images/testimonials/3.jpg",
+    image: "/images/testimonials/5.jpg",
   },
   {
     author: "Yousef Al-Rashid",
