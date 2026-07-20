@@ -28,7 +28,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <title>Krafty Personal Template</title>
+        <title>Dazal Design Studio</title>
         <meta name="description" content="Personal template for creators." />
       </head>
       <body className={cn(inter.variable, poppins.variable, dmSans.variable)}>
