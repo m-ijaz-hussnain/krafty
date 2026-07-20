@@ -1,7 +1,7 @@
 const projects = [
   {
     title: "Harringtons",
-    description: "Luxury residential real estate project.",
+    description: "Cut bidder drop-off with a secure, elegant auction flow for high-value jewellery.",
     introduction:
       "",
     images: [
@@ -87,7 +87,7 @@ const projects = [
   },
   {
     title: "Ohana",
-    description: "Boutique luxury villas or residences.",
+    description: "Simplified group loan tracking, cutting borrower onboarding time by 40%.",
     introduction:
       "",
     images: [
@@ -173,7 +173,7 @@ const projects = [
   },
   {
     title: "Drill",
-    description: "Power tool for drilling holes.",
+    description: "End-to-end app design for a services startup from wireframes to App Store-ready screens.",
     introduction:
       "",
     images: [
@@ -259,7 +259,7 @@ const projects = [
   },
   {
     title: "Financela",
-    description: "Financial technology or services platform.",
+    description: "Rebuilt the landing page, lifting signup conversion by 21% for a fintech client.",
     introduction:
       "",
     images: [

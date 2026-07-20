@@ -99,7 +99,7 @@ export default function Hero() {
           {/* See all button ab /projects page par redirect karega */}
           <Link href="/projects">
             <button className={cn("button-stroke", styles.secondary_button)}>
-              See all
+              See all projects
             </button>
           </Link>
         </div>
