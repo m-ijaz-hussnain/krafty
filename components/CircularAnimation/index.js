@@ -24,7 +24,7 @@ export default function CircularAnimation() {
             className={cn("caption", styles.text)}
             textLength={Math.PI * 150}
           >
-            Explore more ・ Explore more ・ Explore more ・
+            Business Ready ・ Agency Partner ・ Conversion Driven ・
           </textPath>
         </text>
       </svg>
