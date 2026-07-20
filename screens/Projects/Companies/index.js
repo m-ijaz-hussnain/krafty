@@ -51,7 +51,7 @@ export default function Companies() {
           </div>
         </div>
 
-        <motion.div
+        {/* <motion.div
           variants={scrollVariants}
           animate="animate"
           className={styles.companies}
@@ -61,7 +61,7 @@ export default function Companies() {
               {company.logo}
             </div>
           ))}
-        </motion.div>
+        </motion.div> */}
       </div>
     </section>
   );
