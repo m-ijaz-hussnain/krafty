@@ -10,7 +10,7 @@ export default function Testimonials() {
       <div className={styles.container}>
         <div className={styles.title_container}>
           <span className={cn("hairline-2", styles.text)}>Testimonials</span>
-          <h1 className={cn("h2", styles.title)}>What creators are saying.</h1>
+          <h1 className={cn("h2", styles.title)}>What Our Clients Says.</h1>
         </div>
 
         <div className={styles.testimonials}>
