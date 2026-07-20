@@ -7,6 +7,8 @@ import {
   Nextjs,
   ReactNative,
   VSCode,
+  Sketch,
+  Notion,
 } from "@/components/Icons";
 
 const tools = [
@@ -19,20 +21,20 @@ const tools = [
   {
     icon: <Framer />,
     title: "Framer",
-    text: "UI/UX Design.",
+    text: "Design & Prototyping.",
     url: "https://www.framer.com/",
   },
   {
-    icon: <Arc />,
-    title: "Arc",
-    text: "Browser",
-    url: "https://arc.net/",
+    icon: <Sketch />,
+    title: "Sketch",
+    text: "UX/UI Design.",
+    url: "https://www.sketch.com/",
   },
   {
-    icon: <IconlyPro />,
-    title: "Iconly Pro",
-    text: "Icons",
-    url: "https://iconly.pro/",
+    icon: <Notion />,
+    title: "Notion",
+    text: "Productivity.",
+    url: "https://www.notion.com/",
   },
   // {
   //   icon: <VSCode />,

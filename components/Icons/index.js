@@ -14,6 +14,8 @@ import Framer from "./Framer";
 import Arc from "./Arc";
 import IconlyPro from "./IconlyPro";
 import VSCode from "./VSCode";
+import Sketch from "./Sketch";
+import Notion from "./Notion";
 import ReactNative from "./ReactNative";
 import Nextjs from "./Nextjs";
 import Code from "./Code";
@@ -45,6 +47,8 @@ export {
   VSCode,
   ReactNative,
   Nextjs,
+  Sketch,
+  Notion,
   Code,
   ArrowRight,
   Dribbble,

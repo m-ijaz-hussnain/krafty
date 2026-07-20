@@ -9,7 +9,7 @@ export default function Stack() {
     <section className={cn("section")}>
       <div className={styles.container}>
         <span className={cn("hairline-2", styles.text)}>Tools</span>
-        <h1 className={cn("h2", styles.title)}>Stack.</h1>
+        <h1 className={cn("h2", styles.title)}>Built with the tools your team already uses.</h1>
         <div className={styles.tools}>
           {tools.map((tool) => (
             <Tool key={tool.title} {...tool} />
