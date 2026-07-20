@@ -17,6 +17,11 @@ const links = [
   //   icon: <Store />,
   // },
   {
+    title: "Services",
+    url: "/services",
+    icon: <Store />,
+  },
+  {
     title: "About",
     url: "/about",
     icon: <Profile />,
