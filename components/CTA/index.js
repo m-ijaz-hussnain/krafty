@@ -10,7 +10,7 @@ export default function CTA() {
     <div className={cn("section")}>
       <div className={styles.container}>
         <div className={styles.title_container}>
-          <span className={cn("hairline-2", styles.text)}>CONTACT ME</span>
+          <span className={cn("hairline-2", styles.text)}>CONTACT US</span>
           <h1 className={cn("h4", styles.title)}>Let’s work together.</h1>
         </div>
 

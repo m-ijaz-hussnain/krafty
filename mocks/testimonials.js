@@ -17,7 +17,7 @@ const testimonials = [
     author: "Lee Hamilton",
     position: "Agency Owner",
     review:
-      "Krafty turned confused applicants into qualified leads drop-off down 38%.",
+      "Dazal Studio turned confused applicants into qualified leads drop-off down 38%.",
     image: "/images/testimonials/3.jpg",
   },
   {

@@ -65,7 +65,7 @@ export default function Footer({ title }) {
 
       <div className={styles.bottom}>
         <div className={cn("caption", styles.copyright)}>
-          Dazal Studio © 2026
+          Dazal Studio © 2026 — Design for business owners, white-label for agencies.
         </div>
 
         <div className={styles.socials}>
