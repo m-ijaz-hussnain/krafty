@@ -66,7 +66,7 @@ export default function Hero() {
               </p>
 
               <motion.a
-                href="https://ui8.net/users/angel-uriostegui?status=6"
+                href="https://krafty-lyart.vercel.app/contact"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{
@@ -76,7 +76,7 @@ export default function Hero() {
                 whileTap={{ scale: 0.9 }}
                 className={cn("button", styles.button)}
               >
-                Get template
+                Start your project
               </motion.a>
             </div>
 
