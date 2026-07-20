@@ -20,7 +20,7 @@ export default function Hero() {
             style={{ position: "relative", width: "100%", overflow: "hidden" }}
           >
             <h1 className={cn("hero", styles.title)}>
-              Hey, I'm Angel Uriostegui.
+              Hey, I'm Dazel Design Studio.
             </h1>
 
             <motion.div
@@ -48,10 +48,10 @@ export default function Hero() {
           <div className={styles.bottom_content}>
             <div>
               <p className={cn("body-1")}>
-                Currently crafting the future of web and app experiences.
+                We design UI/UX, websites, and SaaS products for business owners building their brand and work white-label behind the scenes for agencies who need an extra design bench.
               </p>
               <motion.a
-                href="https://ui8.net/users/angel-uriostegui?status=6"
+                href="https://krafty-lyart.vercel.app/contact"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{
@@ -61,7 +61,7 @@ export default function Hero() {
                 whileTap={{ scale: 0.9 }}
                 className={cn("button", styles.button)}
               >
-                Get template
+                Start your project
               </motion.a>
             </div>
 
