@@ -28,37 +28,37 @@ const footerLinks = [
       },
     ],
   },
-  // {
-  //   title: "Popular templates",
-  //   links: [
-  //     {
-  //       title: "DataPeak",
-  //       href: "/products/datapeak",
-  //     },
-  //     {
-  //       title: "GreenMart",
-  //       href: "/products/greenmart",
-  //     },
-  //     {
-  //       title: "NetWords",
-  //       href: "/products/networds",
-  //     },
-  //     {
-  //       title: "WellTrack",
-  //       href: "/products/welltrack",
-  //     },
-  //   ],
-  // },
+  {
+    title: "Services",
+    links: [
+      {
+        title: "UI/UX Design",
+        href: "/services",
+      },
+      {
+        title: "Web App Design",
+        href: "/services",
+      },
+      {
+        title: "SaaS Product Design",
+        href: "/services",
+      },
+      {
+        title: "Landing Page Design",
+        href: "/services",
+      },
+    ],
+  },
   {
     title: "Resources",
     links: [
       {
         title: "Newsletter",
-        href: "/newsletter",
+        href: "/",
       },
       {
         title: "Stack",
-        href: "/stack",
+        href: "/",
       },
     ],
   },
