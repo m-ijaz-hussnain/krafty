@@ -40,7 +40,7 @@ export default function Companies() {
           <div className={styles.title_container}>
             <span className={cn("hairline-2", styles.text)}>Client</span>
             <h1 className={cn("h2", styles.title)}>
-             Trusted by Industry Leaders
+             We've worked with great names.
             </h1>
           </div>
 
