@@ -345,9 +345,9 @@ const projects = [
   },
   {
     title: "CarismaCar",
-    description: "Mitsubishi hatchback or sedan model.",
+    description: "Gamified dealership performance — turning targets into leaderboards employees actually compete for.",
     introduction:
-      "",
+      "Carisma is a SaaS-based CRM built to boost car dealership performance through gamified employee engagement. Krafty partnered with Carisma to turn routine sales, service, parts, and finance targets into a points-based, leaderboard-driven experience, addressing an industry-wide struggle to keep dealership teams motivated and aligned with real business goals.",
     images: [
       "/images/projects/carisma1.jpeg",
       "/images/projects/carisma2.jpeg",
@@ -356,20 +356,20 @@ const projects = [
     ],
     features: [
       {
-        title: "",
+        title: "Rewards",
       },
       {
-        title: "",
+        title: "Leaderboards",
       },
       {
-        title: "",
+        title: "Analytics",
       },
     ],
     problem: [
       {
-        title: "",
+        title: "Visibility Gap",
         description:
-          "",
+          "Dealership employees across sales, service, parts, and finance had no clear way to track their own targets, leaving performance invisible until review time. Existing systems were either too generic or disconnected between departments, so strong performers went unrecognized, underperformance went unaddressed, and motivation dropped exactly where dealerships needed it most.",
       },
       {
         title: "",
@@ -384,9 +384,9 @@ const projects = [
     ],
     solution: [
       {
-        title: "",
+        title: "Gamified Performance Tracking",
         description:
-          "",
+          "Dazal built Carisma as a gamified CRM where employees earn points for hitting departmental targets, redeemable for real bonuses and visible on department and inter-dealership leaderboards. Real-time analytics tie every point back to actual performance, giving managers a live view of who's excelling and dealerships a workforce genuinely motivated to compete.",
       },
       {
         title: "",
@@ -401,16 +401,16 @@ const projects = [
     ],
     benefits: [
       {
-        title: "",
+        title: "Employee engagement and target completion rose measurably within the first quarter [insert confirmed %]",
       },
       {
-        title: "",
+        title: "Real-time leaderboards made top performers visible across every department, not just at review time",
       },
       {
-        title: "",
+        title: " Inter-dealership competition surfaced through shared leaderboards, lifting performance beyond a single location",
       },
       {
-        title: "",
+        title: "Managers gained live analytics to align incentives with actual dealership goals",
       },
     ],
 
