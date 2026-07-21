@@ -1,6 +1,7 @@
 import Home from "./Home";
 import Bag from "./Bag";
 import Store from "./Store";
+import Service from "./Service";
 import Profile from "./Profile";
 import Writing from "./Writing";
 import Email from "./Email";
@@ -32,6 +33,7 @@ export {
   Home,
   Bag,
   Store,
+  Service,
   Profile,
   Writing,
   Email,

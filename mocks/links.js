@@ -1,4 +1,4 @@
-import { Bag, Email, Home, Profile, Store, Writing } from "@/components/Icons";
+import { Bag, Email, Home, Profile, Store, Service, Writing } from "@/components/Icons";
 
 const links = [
   {
@@ -19,7 +19,7 @@ const links = [
   {
     title: "Services",
     url: "/services",
-    icon: <Store />,
+    icon: <Service />,
   },
   {
     title: "About",
