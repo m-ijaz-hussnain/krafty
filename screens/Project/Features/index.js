@@ -14,12 +14,12 @@ export default function Features({ project }) {
             title="Benefits"
             content={project.benefits}
           />
-          <Item
+          {/* <Item
             project={project}
             image={project.images[1]}
             title="How it works"
             content={project.introductions}
-          />
+          /> */}
         </div>
       </div>
     </section>

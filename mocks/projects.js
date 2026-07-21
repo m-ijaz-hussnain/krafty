@@ -3,7 +3,7 @@ const projects = [
     title: "Harringtons",
     description: "Cut bidder drop-off with a secure, elegant auction flow for high-value jewellery.",
     introduction:
-      "",
+      "Harrington's runs high-value jewellery auctions for serious collectors and buyers who expect both elegance and airtight security when bidding online. Krafty partnered with Harrington's to redesign their auction experience end-to-end, addressing a critical drop-off point between browsing an item and placing a confident, secure bid.",
     images: [
       "/images/projects/harringtons1.jpeg",
       "/images/projects/harringtons2.jpeg",
@@ -12,20 +12,20 @@ const projects = [
     ],
     features: [
       {
-        title: "",
+        title: "Live Real-Time Bidding",
       },
       {
-        title: "",
+        title: "Secure ID Verification",
       },
       {
-        title: "",
+        title: "Mobile-First Auction Flow",
       },
     ],
     problem: [
       {
-        title: "",
+        title: "High Bidder Drop-Off",
         description:
-          "",
+          "Bidders browsing high-value jewellery lots frequently abandoned the process before placing a bid, put off by a clunky flow and unclear verification steps. The auction interface gave no confidence around identity, payment security, or real-time bid status, and serious collectors the customers Harrington's needed most were the ones most likely to walk away.",
       },
       {
         title: "",
@@ -40,9 +40,9 @@ const projects = [
     ],
     solution: [
       {
-        title: "",
+        title: "High-Confidence Bidding Experience",
         description:
-          "",
+          "Dazal redesigned Harrington's auction flow from the ground up, building a secure, elegant bidding experience with clear identity verification, transparent real-time pricing, and a streamlined path from listing to checkout. Every step was rebuilt to give high-value bidders the confidence to follow through, from their first look at a lot to their final bid.",
       },
       {
         title: "",
@@ -57,16 +57,16 @@ const projects = [
     ],
     benefits: [
       {
-        title: "",
+        title: "Bidder drop-off between browsing and placing a bid cut significantly [insert confirmed %]",
       },
       {
-        title: "",
+        title: "Identity verification completed up front, in under a minute",
       },
       {
-        title: "",
+        title: "Real-time bid status removed uncertainty at the moment it mattered most",
       },
       {
-        title: "",
+        title: "A cleaner, mobile-first flow made high-value bidding feel as trustworthy as buying in-store",
       },
     ],
 
@@ -89,7 +89,7 @@ const projects = [
     title: "Ohana",
     description: "Simplified group loan tracking, cutting borrower onboarding time by 40%.",
     introduction:
-      "",
+      "Ohana is a fintech platform built to simplify loan disbursement, tracking, and borrower scoring for group lending. Krafty partnered with Ohana to bring microfinance institutions a digital alternative to slow, manual borrower onboarding, addressing a core bottleneck in group loan management and financial transparency.",
     images: [
       "/images/projects/ohana1.jpeg",
       "/images/projects/ohana2.jpeg",
@@ -98,20 +98,20 @@ const projects = [
     ],
     features: [
       {
-        title: "",
+        title: "Streamlined Digital Onboarding",
       },
       {
-        title: "",
+        title: "Real-Time Borrower Scoring",
       },
       {
-        title: "",
+        title: "Centralized Loan Tracking",
       },
     ],
     problem: [
       {
-        title: "",
+        title: "Inefficient Manual Processes",
         description:
-          "",
+          "Group lending relied on outdated manual processes and inconsistent borrower ratings, leaving institutions without reliable digital tools. Onboarding a new borrower or group took days of paperwork and back-and-forth, delinquencies went unnoticed until it was too late, and the lack of centralized data made it difficult for lenders to trust the numbers or plan for growth.",
       },
       {
         title: "",
@@ -126,9 +126,9 @@ const projects = [
     ],
     solution: [
       {
-        title: "",
+        title: "Cloud-Based Loan Platform",
         description:
-          "",
+          "Krafty delivered a cloud-based loan disbursement and scoring platform purpose-built for group lending, combining a streamlined digital onboarding flow with real-time borrower scoring. Individual and group loans are tracked from a single dashboard, giving fintechs and microfinance firms a clear, centralized view of performance, repayments, and risk as they scale.",
       },
       {
         title: "",
@@ -143,16 +143,16 @@ const projects = [
     ],
     benefits: [
       {
-        title: "",
+        title: "Borrower onboarding time cut by 40%",
       },
       {
-        title: "",
+        title: "Delinquency detection improved by 85%",
       },
       {
-        title: "",
+        title: "User satisfaction tripled after launch",
       },
       {
-        title: "",
+        title: "Centralized dashboard gave lenders real-time visibility across branches",
       },
     ],
 
@@ -175,7 +175,7 @@ const projects = [
     title: "Drill",
     description: "End-to-end app design for a services startup from wireframes to App Store-ready screens.",
     introduction:
-      "",
+      "Drill is a services-booking startup preparing to launch across the GCC, connecting households with on-demand plumbers, electricians, and cleaners. Krafty partnered with Drill pre-launch to design the entire app experience from scratch, taking it from early wireframes to a polished, App Store-ready product ready for development handoff.",
     images: [
       "/images/projects/drill1.jpeg",
       "/images/projects/drill2.jpeg",
@@ -184,20 +184,20 @@ const projects = [
     ],
     features: [
       {
-        title: "",
+        title: "End-To-End User Flow",
       },
       {
-        title: "",
+        title: "App-Store-Ready UI",
       },
       {
-        title: "",
+        title: "Usability-Tested Wireframe Designs",
       },
     ],
     problem: [
       {
-        title: "",
+        title: "Unclear User Experience",
         description:
-          "",
+          "Drill had a strong concept for on-demand home services but no validated app experience — no user flows, no visual identity, and no tested screens ready to build from. Without a clear design foundation, the team risked launching with a clunky booking journey, and investors and early partners had nothing tangible to evaluate the product against.",
       },
       {
         title: "",
@@ -212,9 +212,9 @@ const projects = [
     ],
     solution: [
       {
-        title: "",
+        title: "Validated Launch-Ready Design",
         description:
-          "",
+          "Dazal mapped every core journey — booking, service matching, and payment — into clear user flows, then designed high-fidelity, App Store-ready screens for iOS and Android. Wireframes were tested and refined through iterative sprints, giving Drill a validated, launch-ready design system and something concrete to show investors, partners, and its development team.",
       },
       {
         title: "",
@@ -229,16 +229,16 @@ const projects = [
     ],
     benefits: [
       {
-        title: "",
+        title: "40+ App Store-ready screens delivered across booking, service, and payment flows",
       },
       {
-        title: "",
+        title: "User flows validated through usability testing before a single line of code was built",
       },
       {
-        title: "",
+        title: "Design-to-development handoff time cut significantly with a fully documented design system",
       },
       {
-        title: "",
+        title: "Drill entered launch and funding conversations with a polished, testable product to show",
       },
     ],
 
@@ -261,7 +261,7 @@ const projects = [
     title: "Financela",
     description: "Rebuilt the landing page, lifting signup conversion by 21% for a fintech client.",
     introduction:
-      "",
+      "Financela is a fintech client whose product relied on an outdated landing page to convert first-time visitors into signups. Krafty was brought in to rebuild the page from the ground up, focused entirely on clarity, trust, and a smoother path from first visit to completed signup.",
     images: [
       "/images/projects/financela1.jpeg",
       "/images/projects/financela2.jpeg",
@@ -270,20 +270,20 @@ const projects = [
     ],
     features: [
       {
-        title: "",
+        title: "Trust-Focused Landing Redesign",
       },
       {
-        title: "",
+        title: "Optimized Conversion Flow",
       },
       {
-        title: "",
+        title: "Data-Refined Layout Design",
       },
     ],
     problem: [
       {
-        title: "",
+        title: "Cluttered Low-Converting Page",
         description:
-          "",
+          "Financela's landing page was cluttered and unclear, burying the core value proposition beneath dense copy and a multi-step signup form. Visitors arrived with real intent but dropped off before completing registration, trust signals were weak for a financial product, and the page was actively working against the traffic the business was paying to bring in.",
       },
       {
         title: "",
@@ -298,9 +298,9 @@ const projects = [
     ],
     solution: [
       {
-        title: "",
+        title: "High-Converting Landing Page",
         description:
-          "",
+          "Dazal rebuilt Financela's landing page from scratch, leading with a clear value proposition, stronger trust signals, and a simplified signup flow with fewer steps and less friction. Messaging and layout were refined through testing until the page consistently turned more first-time visitors into completed signups.",
       },
       {
         title: "",
@@ -315,16 +315,16 @@ const projects = [
     ],
     benefits: [
       {
-        title: "",
+        title: "Signup conversion lifted by 21% after the rebuild",
       },
       {
-        title: "",
+        title: "Multi-step form simplified, cutting steps needed to complete signup",
       },
       {
-        title: "",
+        title: "Clearer trust signals reduced visitor hesitation on a financial product page",
       },
       {
-        title: "",
+        title: "Existing traffic converted at a meaningfully higher rate no added ad spend required",
       },
     ],
 
