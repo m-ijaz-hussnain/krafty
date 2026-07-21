@@ -11,7 +11,7 @@ export default function AboutPage() {
     <Layout>
       <Hero />
       <Section />
-      <Background />
+      {/* <Background /> */}
       <Stack />
       <CTA />
     </Layout>

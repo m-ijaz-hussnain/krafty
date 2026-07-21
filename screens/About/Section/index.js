@@ -36,22 +36,18 @@ export default function Section() {
 
         <div className={styles.content}>
           <div className={styles.title_container}>
-            <span className={cn("hairline-2", styles.text)}>What I do</span>
-            <h1 className={cn("h2", styles.title)}>A little about me.</h1>
+            <span className={cn("hairline-2", styles.text)}>WHAT WE DO</span>
+            <h4 className={cn("h4", styles.title)}>Conversion-Driven Products, Buitt to convert.</h4>
           </div>
 
           <div>
             <div className={cn("caption", styles.subtitle)}>
-              I specialize in Next.js 13 and React Native with Expo, I develop
-              dynamic web applications and mobile apps that blend functionality
-              with impactful design. My expertise in modern JavaScript
-              frameworks enables me to deliver user-centric, responsive
-              solutions.
+              We design and build UI/UX, websites, and SaaS products for founders growing their brand, and work white-label behind the scenes for agencies who need a senior design bench on demand. Every project is clean, considered, and delivered on time no jargon, no back-and-forth chasing revisions, just work that ships.
             </div>
 
-            <a className={cn("button")} href="#background">
+            {/* <a className={cn("button")} href="#background">
               Learn more
-            </a>
+            </a> */}
           </div>
         </div>
       </div>

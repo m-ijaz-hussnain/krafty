@@ -20,7 +20,7 @@ export default function Hero() {
             style={{ position: "relative", width: "100%", overflow: "hidden" }}
           >
             <h1 className={cn("hero", styles.title)}>
-              Hey, I'm Dazel Design Studio.
+              Welcome to dazel design studio.
             </h1>
 
             <motion.div
