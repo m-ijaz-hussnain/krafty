@@ -98,7 +98,7 @@ const projects = [
     ],
     features: [
       {
-        title: "Digital-Onboarding",
+        title: "Onboarding",
       },
       {
         title: "Risk-Alerts",
