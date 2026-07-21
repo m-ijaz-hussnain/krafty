@@ -1,11 +1,11 @@
 const facts = [
   {
-    number: "50+",
+    number: "20+",
     description:
       "Collaborating with a diverse range of over 50 companies, from innovative startups to large-scale corporations.",
   },
   {
-    number: "10",
+    number: "08",
     description:
       "A decade of delivering cutting-edge web and app development solutions across various sectors.",
   },
