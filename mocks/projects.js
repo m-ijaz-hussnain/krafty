@@ -12,13 +12,13 @@ const projects = [
     ],
     features: [
       {
-        title: "Live Real-Time Bidding",
+        title: "Live-Bidding",
       },
       {
-        title: "Secure ID Verification",
+        title: "Identity-Check",
       },
       {
-        title: "Mobile-First Auction Flow",
+        title: "Seamless-Flow",
       },
     ],
     problem: [
@@ -98,13 +98,13 @@ const projects = [
     ],
     features: [
       {
-        title: "Streamlined Digital Onboarding",
+        title: "Digital-Onboarding",
       },
       {
-        title: "Real-Time Borrower Scoring",
+        title: "Risk-Alerts",
       },
       {
-        title: "Centralized Loan Tracking",
+        title: "Central-Dashboard",
       },
     ],
     problem: [
@@ -184,13 +184,13 @@ const projects = [
     ],
     features: [
       {
-        title: "End-To-End User Flow",
+        title: "User Flow",
       },
       {
-        title: "App-Store-Ready UI",
+        title: "App UI",
       },
       {
-        title: "Usability-Tested Wireframe Designs",
+        title: "Tested-Wireframes",
       },
     ],
     problem: [
@@ -270,13 +270,13 @@ const projects = [
     ],
     features: [
       {
-        title: "Trust-Focused Landing Redesign",
+        title: "Page-Revamp",
       },
       {
-        title: "Optimized Conversion Flow",
+        title: "High-Conversion",
       },
       {
-        title: "Data-Refined Layout Design",
+        title: "A/B-Tested",
       },
     ],
     problem: [
