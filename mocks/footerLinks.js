@@ -28,27 +28,27 @@ const footerLinks = [
       },
     ],
   },
-  {
-    title: "Popular templates",
-    links: [
-      {
-        title: "DataPeak",
-        href: "/products/datapeak",
-      },
-      {
-        title: "GreenMart",
-        href: "/products/greenmart",
-      },
-      {
-        title: "NetWords",
-        href: "/products/networds",
-      },
-      {
-        title: "WellTrack",
-        href: "/products/welltrack",
-      },
-    ],
-  },
+  // {
+  //   title: "Popular templates",
+  //   links: [
+  //     {
+  //       title: "DataPeak",
+  //       href: "/products/datapeak",
+  //     },
+  //     {
+  //       title: "GreenMart",
+  //       href: "/products/greenmart",
+  //     },
+  //     {
+  //       title: "NetWords",
+  //       href: "/products/networds",
+  //     },
+  //     {
+  //       title: "WellTrack",
+  //       href: "/products/welltrack",
+  //     },
+  //   ],
+  // },
   {
     title: "Resources",
     links: [
