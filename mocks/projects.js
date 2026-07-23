@@ -8,6 +8,7 @@ const projects = [
       "/images/projects/harringtons2.jpeg",
       "/images/projects/harringtons1.jpeg",
       "/images/projects/harringtons3.jpeg",
+      "/images/projects/harringtons3.jpeg",
       "/images/projects/harringtons5.jpeg",
     ],
     features: [
