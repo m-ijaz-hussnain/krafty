@@ -10,7 +10,7 @@ export default function Features({ project }) {
         <div className={styles.items}>
           <Item
             project={project}
-            image={project.images[3]}
+            image={project.images[4]}
             title="Benefits"
             content={project.benefits}
           />
