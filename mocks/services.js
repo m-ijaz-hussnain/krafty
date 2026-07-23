@@ -7,7 +7,7 @@ const services = [
   {
     title: "Website & Landing Page Design",
     cost: "Starts at $1,499",
-    image: "/images/projects/drill3.jpeg",
+    image: "/images/projects/ohana5.jpeg",
   },
   {
     title: "Web & Mobile App Design",
