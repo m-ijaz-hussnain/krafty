@@ -89,7 +89,7 @@ const projects = [
     title: "Ohana",
     description: "Simplified group loan tracking, cutting borrower onboarding time by 40%.",
     introduction:
-      "Ohana is a fintech platform built to simplify loan disbursement, tracking, and borrower scoring for group lending. Krafty partnered with Ohana to bring microfinance institutions a digital alternative to slow, manual borrower onboarding, addressing a core bottleneck in group loan management and financial transparency.",
+      "Ohana is a fintech platform built to simplify loan disbursement, tracking, and borrower scoring for group lending. Dazal partnered with Ohana to bring microfinance institutions a digital alternative to slow, manual borrower onboarding, addressing a core bottleneck in group loan management and financial transparency.",
     images: [
       "/images/projects/ohana1.jpeg",
       "/images/projects/ohana2.jpeg",
@@ -128,7 +128,7 @@ const projects = [
       {
         title: "Cloud-Based Loan Platform",
         description:
-          "Krafty delivered a cloud-based loan disbursement and scoring platform purpose-built for group lending, combining a streamlined digital onboarding flow with real-time borrower scoring. Individual and group loans are tracked from a single dashboard, giving fintechs and microfinance firms a clear, centralized view of performance, repayments, and risk as they scale.",
+          "Dazal delivered a cloud-based loan disbursement and scoring platform purpose-built for group lending, combining a streamlined digital onboarding flow with real-time borrower scoring. Individual and group loans are tracked from a single dashboard, giving fintechs and microfinance firms a clear, centralized view of performance, repayments, and risk as they scale.",
       },
       {
         title: "",
