@@ -93,9 +93,10 @@ const projects = [
       "Ohana is a fintech platform built to simplify loan disbursement, tracking, and borrower scoring for group lending. Dazal partnered with Ohana to bring microfinance institutions a digital alternative to slow, manual borrower onboarding, addressing a core bottleneck in group loan management and financial transparency.",
     images: [
       "/images/projects/ohana5.jpeg",
-      "/images/projects/ohana2.jpeg",
+      "/images/projects/ohana1.jpeg",
       "/images/projects/ohana3.jpeg",
       "/images/projects/ohana4.jpeg",
+      "/images/projects/ohana2.jpeg",
     ],
     features: [
       {
