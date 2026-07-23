@@ -12,7 +12,7 @@ const services = [
   {
     title: "Web & Mobile App Design",
     cost: "Starts at $1,999",
-    image: "/images/services/service-1.png",
+    image: "/images/projects/drill3.jpeg",
   },
   {
     title: "SaaS Product Design",
