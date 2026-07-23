@@ -347,7 +347,7 @@ const projects = [
     title: "CarismaCar",
     description: "Gamified dealership performance — turning targets into leaderboards employees actually compete for.",
     introduction:
-      "Carisma is a SaaS-based CRM built to boost car dealership performance through gamified employee engagement. Krafty partnered with Carisma to turn routine sales, service, parts, and finance targets into a points-based, leaderboard-driven experience, addressing an industry-wide struggle to keep dealership teams motivated and aligned with real business goals.",
+      "Carisma is a SaaS-based CRM built to boost car dealership performance through gamified employee engagement. Dazal partnered with Carisma to turn routine sales, service, parts, and finance targets into a points-based, leaderboard-driven experience, addressing an industry-wide struggle to keep dealership teams motivated and aligned with real business goals.",
     images: [
       "/images/projects/carisma1.jpeg",
       "/images/projects/carisma2.jpeg",
