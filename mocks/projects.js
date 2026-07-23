@@ -180,9 +180,10 @@ const projects = [
       "Drill is a services-booking startup preparing to launch across the GCC, connecting households with on-demand plumbers, electricians, and cleaners. Dazal partnered with Drill pre-launch to design the entire app experience from scratch, taking it from early wireframes to a polished, App Store-ready product ready for development handoff.",
     images: [
       "/images/projects/drill5.jpeg",
-      "/images/projects/drill2.jpeg",
       "/images/projects/drill3.jpeg",
+      "/images/projects/drill2.jpeg",
       "/images/projects/drill4.jpeg",
+      "/images/projects/drill1.jpeg",
     ],
     features: [
       {
