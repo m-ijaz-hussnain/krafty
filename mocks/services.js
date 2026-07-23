@@ -17,7 +17,7 @@ const services = [
   {
     title: "SaaS Product Design",
     cost: "Starts at $2,499",
-    image: "/images/services/service-2.png",
+    image: "/images/projects/carisma5.jpeg",
   },
 ];
 
