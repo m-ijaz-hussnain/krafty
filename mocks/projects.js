@@ -175,7 +175,7 @@ const projects = [
     title: "Drill",
     description: "End-to-end app design for a services startup from wireframes to App Store-ready screens.",
     introduction:
-      "Drill is a services-booking startup preparing to launch across the GCC, connecting households with on-demand plumbers, electricians, and cleaners. Krafty partnered with Drill pre-launch to design the entire app experience from scratch, taking it from early wireframes to a polished, App Store-ready product ready for development handoff.",
+      "Drill is a services-booking startup preparing to launch across the GCC, connecting households with on-demand plumbers, electricians, and cleaners. Dazal partnered with Drill pre-launch to design the entire app experience from scratch, taking it from early wireframes to a polished, App Store-ready product ready for development handoff.",
     images: [
       "/images/projects/drill1.jpeg",
       "/images/projects/drill2.jpeg",
