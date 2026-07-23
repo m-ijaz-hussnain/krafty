@@ -91,7 +91,7 @@ const projects = [
     introduction:
       "Ohana is a fintech platform built to simplify loan disbursement, tracking, and borrower scoring for group lending. Dazal partnered with Ohana to bring microfinance institutions a digital alternative to slow, manual borrower onboarding, addressing a core bottleneck in group loan management and financial transparency.",
     images: [
-      "/images/projects/ohana1.jpeg",
+      "/images/projects/ohana5.jpeg",
       "/images/projects/ohana2.jpeg",
       "/images/projects/ohana3.jpeg",
       "/images/projects/ohana4.jpeg",
@@ -349,10 +349,10 @@ const projects = [
     introduction:
       "Carisma is a SaaS-based CRM built to boost car dealership performance through gamified employee engagement. Dazal partnered with Carisma to turn routine sales, service, parts, and finance targets into a points-based, leaderboard-driven experience, addressing an industry-wide struggle to keep dealership teams motivated and aligned with real business goals.",
     images: [
-      "/images/projects/carisma1.jpeg",
+      "/images/projects/carisma5.jpeg",
       "/images/projects/carisma2.jpeg",
       "/images/projects/carisma3.jpeg",
-      "/images/projects/carisma5.jpeg",
+      "/images/projects/carisma1.jpeg",
     ],
     features: [
       {
