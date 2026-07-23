@@ -2,7 +2,7 @@ const services = [
   {
     title: "UI/UX Design",
     cost: "Starts at $999",
-    image: "/images/services/ohana5.jpeg",
+    image: "/images/projects/ohana5.jpeg",
   },
   {
     title: "Website & Landing Page Design",
