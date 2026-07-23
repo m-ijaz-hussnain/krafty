@@ -3,7 +3,7 @@ const projects = [
     title: "Harringtons",
     description: "Cut bidder drop-off with a secure, elegant auction flow for high-value jewellery.",
     introduction:
-      "Harrington's runs high-value jewellery auctions for serious collectors and buyers who expect both elegance and airtight security when bidding online. Krafty partnered with Harrington's to redesign their auction experience end-to-end, addressing a critical drop-off point between browsing an item and placing a confident, secure bid.",
+      "Harrington's runs high-value jewellery auctions for serious collectors and buyers who expect both elegance and airtight security when bidding online. Dazal partnered with Harrington's to redesign their auction experience end-to-end, addressing a critical drop-off point between browsing an item and placing a confident, secure bid.",
     images: [
       "/images/projects/harringtons1.jpeg",
       "/images/projects/harringtons2.jpeg",
