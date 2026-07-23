@@ -355,8 +355,9 @@ const projects = [
     images: [
       "/images/projects/carisma5.jpeg",
       "/images/projects/carisma2.jpeg",
-      "/images/projects/carisma3.jpeg",
       "/images/projects/carisma1.jpeg",
+      "/images/projects/carisma4.jpeg",
+      "/images/projects/carisma3.jpeg",
     ],
     features: [
       {
