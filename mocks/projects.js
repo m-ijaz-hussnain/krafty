@@ -267,9 +267,10 @@ const projects = [
       "Financela is a fintech client whose product relied on an outdated landing page to convert first-time visitors into signups. Dazal was brought in to rebuild the page from the ground up, focused entirely on clarity, trust, and a smoother path from first visit to completed signup.",
     images: [
       "/images/projects/financela1.jpeg",
-      "/images/projects/financela2.jpeg",
+      "/images/projects/financela5.jpeg",
       "/images/projects/financela3.jpeg",
       "/images/projects/financela4.jpeg",
+      "/images/projects/financela2.jpeg",
     ],
     features: [
       {
